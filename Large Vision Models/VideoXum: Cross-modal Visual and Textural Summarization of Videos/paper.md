@@ -30,8 +30,6 @@ Existing methods treat visual and textual summarization as separate tasks, negle
 ### VTSUM-BLIP Framework
 ![architecture](arch.png)
 
-Certainly! I'll provide a brief description of the key components and then explain the methodology in a simple, flowing style.
-
 Key Components:
 1. BLIP Encoder: A pretrained vision-language model used for image feature extraction.
 2. Temporal Transformer (TT): Processes sequential data to capture temporal relationships.
